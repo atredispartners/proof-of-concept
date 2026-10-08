@@ -1,0 +1,1 @@
+Proof of concepts for the Foresight Sports GC3 vulnerabilities (see ATREDIS-2026-0010).
